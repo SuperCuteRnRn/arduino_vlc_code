@@ -1,0 +1,16 @@
+아두이노 광통신 1세트의 경우
+
+송신부
+lateral_1u * 2
+lateral_2_1u * 2
+1U_sat * 2
+solar_panel * 2
+
+수신부
+lateral_1u * 2
+lateral_2_1u * 2
+1U_sat * 2
+solar_panel * 1
+LCD_back_cover * 1
+LCD_front_cover * 1
+
